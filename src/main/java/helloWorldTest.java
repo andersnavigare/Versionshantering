@@ -8,7 +8,8 @@ public class helloWorldTest {
 
         System.out.println("Hello Branch!");
 
-        System.out.println("Hello Anders!");
+        System.out.println("Hello this is the new Branch.");
+
 
         System.out.println("Hello");
 
